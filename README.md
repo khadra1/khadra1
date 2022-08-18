@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Khadra Absughe</h1>
-<h3 align="center">I'm a Data Analyst based in the UK interested in all things data, working in Agriculture and Food industry.</h3>
 
 - 🔭 I’m currently working on **Machine Learning - NLP Detecting Fake News**
 
