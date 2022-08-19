@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Khadra Absughe</h1>
 
-- 🔭 I’m currently working on **Machine Learning - NLP Detecting Fake News**
+- 🔭 I’m currently working on **Machine Learning - NLP: Detecting Fake News**
 
 - 🌱 I’m currently learning **everything data😅**
 
