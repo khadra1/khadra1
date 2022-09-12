@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Khadra Absughe</h1>
 
-- 🔭 I’m currently working on **Machine Learning - NLP: Detecting Fake News**
+- 🔭 I’m currently working on **Analysing and Visualising Global Connectivity**
 
 - 🌱 I’m currently learning **everything data😅**
 
-- 👯 I’m looking to collaborate on **data analysis and visualisation projects**
+- 👯 I’m looking to collaborate on **data analysis, machine learning and visualisation projects**
 
 - 👨‍💻 All of my projects are available at [https://khadra1.github.io](https://khadra1.github.io)
 
